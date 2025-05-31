@@ -1,0 +1,3 @@
+[submodule "BMICalculatorAPI"]
+	path = BMICalculatorAPI
+	url = https://github.com/AlexandraLM27/BMICalculatorAPI.git

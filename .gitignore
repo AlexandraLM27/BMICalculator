@@ -1,0 +1,13 @@
+# .NET build files
+bin/
+obj/
+publish-ui-temp/
+.vscode/
+*.user
+*.suo
+
+# Deployment
+# Deploy/
+
+# Secrets
+appsettings.*.json
